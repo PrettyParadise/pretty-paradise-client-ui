@@ -1,0 +1,8 @@
+img{
+  height: 20vh;
+}
+
+svg:hover{
+  background-color: pink;
+  border-radius: 10px;
+}
