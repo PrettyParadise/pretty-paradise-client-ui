@@ -1,0 +1,8 @@
+{
+  "localhost:4201/products/*": {
+    "target": "http://localhost:8086/pretty-paradise-client",
+    "logLevel": "debug",
+    "changeOrigin": true,
+    "secure": false
+  }
+}
